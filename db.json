@@ -1,5 +1,73 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    "id": 1,
+                "judul": "Mencuri Raden Saleh",
+                "genre": "Drama, Aksi, dan Perampokan",
+                "image": "img/Mencuri Raden Saleh.jpg",
+                "link" : "https://id.wikipedia.org/wiki/Mencuri_Raden_Saleh"
+            },
+            {
+               "id": 2,
+                "judul": "Tenggelamnya Kapal Van der Wijck",
+                "genre": "Drama, Sejarah",
+                "image": "img/Tenggelamnya Kapal Van der Wijck.jpg",
+                "link": "https://id.wikipedia.org/wiki/Tenggelamnya_Kapal_Van_der_Wijck_(film)"
+            },
+            {
+               "id": 3,
+                "judul": "Gundala",
+                "genre": "Action, Superhero",
+                "image": "img/Gundala.jpg",
+                "link": "https://id.wikipedia.org/wiki/Gundala_(film)"
+            },
+            {
+               "id": 4,
+                "judul": "Sweet 20",
+                "genre": "Komedi, Romantis, Drama",
+                "image": "img/Sweet 20.jpg",
+                "link": "https://id.wikipedia.org/wiki/Sweet_20"
+            },
+            {
+               "id": 5,
+                "judul": "Ghost Writer2",
+                "genre": "Horror, Komedi, Drama",
+                "image": "img/Ghost Writer2.jpg",
+                "link": "https://id.wikipedia.org/wiki/Ghost_Writer_2"
+            },
+            {
+               "id": 6,
+                "judul": "Milly & Mamet: Ini Bukan Cinta & Rangga",
+                "genre": "Komedi,Romantis komedi, Drama",
+                "image": "img/Milly & Mamet.jpg",
+                "link": "https://id.wikipedia.org/wiki/Milly_%26_Mamet:_Ini_Bukan_Cinta_%26_Rangga"
+            },
+            {
+               "id": 7,
+                "judul": "Susah Sinyal",
+                "genre": "Komedi, Family, Drama",
+                "image": "img/Susah Sinyal.jpg",
+                "link": "https://id.wikipedia.org/wiki/Susah_Sinyal"
+            },
+            {
+               "id": 8,
+                "judul": "5 cm",
+                "genre": "Romantis, Adventure, Drama",
+                "image": "img/5 cm.jpg",
+                "link": "https://id.wikipedia.org/wiki/5_cm_(film)"
+            },
+            {
+               "id": 9,
+                "judul": "Imperfect",
+                "genre": "Komedi, Romantis, Drama",
+                "image": "img/Imperfect.jpg",
+                "link": "https://id.wikipedia.org/wiki/Imperfect:_Karier,_Cinta_%26_Timbangan"
+            },
+            {
+               "id": 10,
+                "judul": "Mariposa ",
+                "genre": "Komedi, Romantis, Drama",
+                "image": "img/Mariposa.jpg",
+                "link": "https://id.wikipedia.org/wiki/Mariposa_(film_2020)"
+            }
   ]
 }
