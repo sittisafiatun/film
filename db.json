@@ -1,7 +1,7 @@
 {
   "posts": [
-    {
-    "id": 1,
+            {
+               "id": 1,
                 "judul": "Mencuri Raden Saleh",
                 "genre": "Drama, Aksi, dan Perampokan",
                 "image": "img/Mencuri Raden Saleh.jpg",
@@ -70,5 +70,5 @@
                 "image": "img/Mariposa.jpg",
                 "link": "https://id.wikipedia.org/wiki/Mariposa_(film_2020)"
             }
-  ]
+        ]
 }
