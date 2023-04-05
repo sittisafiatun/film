@@ -1,5 +1,4 @@
-{
-  "posts": [
+ [
             {
                "id": 1,
                 "judul": "Mencuri Raden Saleh",
@@ -71,4 +70,3 @@
                 "link": "https://id.wikipedia.org/wiki/Mariposa_(film_2020)"
             }
         ]
-}
