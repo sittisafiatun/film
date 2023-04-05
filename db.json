@@ -1,5 +1,5 @@
 
-        [
+{
             {
                "id": 1,
                 "judul": "Mencuri Raden Saleh",
@@ -70,4 +70,4 @@
                 "image": "img/Mariposa.jpg",
                 "link": "https://id.wikipedia.org/wiki/Mariposa_(film_2020)"
             }
-        ]
+}
