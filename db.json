@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "judul": "Mencuri Raden Saleh", "genre": "Drama, Aksi, dan Perampokan", "image": "img/Mencuri Raden Saleh.jpg", "link" : "https://id.wikipedia.org/wiki/Mencuri_Raden_Saleh" }
+    { "id": 1, "title": "json-server", "author": "typicode" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
